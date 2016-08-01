@@ -15,4 +15,4 @@ logging:
 spring:
     cloud:
         services:
-            registrationMethod: route #direct #
+            registrationMethod: direct #route
