@@ -3,3 +3,8 @@ last:
 security:
     basic:
         enabled: true
+
+logging:
+    level:
+        io:
+            pivotal: DEBUG

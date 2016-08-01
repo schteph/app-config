@@ -4,3 +4,8 @@ security:
 management:
     security:
         enabled: false
+
+greeting:
+    displayFortune: false
+    
+quoteServiceURL: http://quote-service-dev.cfapps.io/quote
