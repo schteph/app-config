@@ -1,0 +1,11 @@
+security:
+    basic:
+        enabled: false
+management:
+    security:
+        enabled: false
+
+greeting:
+    displayFortune: true
+    
+quoteServiceURL: http://quote-service-qa.cfapps.io/quote
