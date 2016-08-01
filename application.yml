@@ -1,2 +1,5 @@
 last:
     name: this is wrong
+security:
+    basic:
+        enabled: true
