@@ -16,3 +16,5 @@ spring:
     cloud:
         services:
             registrationMethod: direct #route
+    jmx:
+        enabled: false
