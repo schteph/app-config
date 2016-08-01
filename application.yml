@@ -2,7 +2,10 @@ last:
     name: this is wrong
 security:
     basic:
-        enabled: true
+        enabled: false
+management:
+    security:
+        enabled: false
 
 logging:
     level:
